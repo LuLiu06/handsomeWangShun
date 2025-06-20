@@ -1,0 +1,61 @@
+
+html{
+    background-color: #f0f0f0;
+}
+
+.card{
+    width:50%;
+    margin-left: 25%;
+    background-color: white;
+    border-radius: 15px;
+    text-align:center;
+    
+}
+
+.profile{
+    width:100px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 700;
+    font-size:24px;
+    text-align: center;
+
+}
+
+h2{
+    color:grey;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    width: 450px;
+    font-size:14px;
+    color:darkgray;
+    text-align: center;
+}
+
+button{
+    background-color: darkblue;
+    color:white;
+    border-radius: 8px;
+    cursor:pointer;
+    font-size:16px;
+    display:block;
+    margin:auto;
+    
+}
+button:hover{
+    background-color: lightblue;
+}
+
+.profile{
+    width:140px;
+    margin:20px auto;
+    display: block;
+}
